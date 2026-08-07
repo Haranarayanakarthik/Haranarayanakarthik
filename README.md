@@ -97,9 +97,6 @@ Alongside coding, I create content around tech and learning on **YouTube, Medium
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kommaraju-hara-narayana-karthik-564917258/">LinkedIn</a> •
-  <a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE">YouTube</a> •
-  <a href="https://medium.com/@YOUR_MEDIUM_HANDLE">Medium</a> •
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE">Instagram</a>
 </p>
 
 <p align="center"><i>Thanks for stopping by — see you in the commits! 🚀</i></p>
