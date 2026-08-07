@@ -14,8 +14,6 @@
 
 I'm **Kommaraju Hara Narayana Karthik**, a final-year B.Tech student and full-stack developer who loves turning ideas into working products. I've completed a **7-month internship** building real-world web applications with the MERN stack, and I'm always exploring new tech to level up.
 
-Alongside coding, I create content around tech and learning on **YouTube, Medium, and Instagram** — sharing what I build and what I learn along the way.
-
 - 🔭 Currently sharpening my full-stack development skills
 - 🌱 Always learning something new — one commit at a time
 - 💡 I enjoy solving problems as much as building products
