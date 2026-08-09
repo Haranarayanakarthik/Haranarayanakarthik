@@ -19,25 +19,25 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,vite" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,materialui,vite" />
 </p>
 
 ### 🔧 Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### ☁️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
 </p>
 
 ---
@@ -45,8 +45,8 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haranarayanakarthik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haranarayanakarthik&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Haranarayanakarthik&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Haranarayanakarthik&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -54,7 +54,9 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
 ## 🧩 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/haranarayanakarthik_kommaraju/?theme=dark&font=Karma&ext=heatmap" />
+   <a href="https://leetcode.com/u/haranarayanakarthik_kommaraju//">
+     <img src="https://leetcard.jacoblin.cool/haranarayanakarthik_kommaraju?theme=dark&font=Karma&ext=heatmap" />
+  </a>
 </p>
 
 ---
