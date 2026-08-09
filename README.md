@@ -34,12 +34,11 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
+
 ### ☁️ Tools & Platforms
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vs-code" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vscode,canva" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
