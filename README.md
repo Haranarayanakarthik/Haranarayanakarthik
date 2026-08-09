@@ -1,99 +1,130 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Haranarayanakarthik&label=Profile%20Views&color=2575FC&style=flat" alt="Profile views" />
+# 👋 Hi, I'm Kommaraju Hara Narayana Karthik
+
+**Final-Year B.Tech CSE Student | Full-Stack Developer | Problem Solver**
+
+I’m a passionate **full-stack developer** who enjoys turning ideas into real-world applications. I have hands-on experience building web applications with the **MERN stack** and love exploring new technologies, solving programming problems, and continuously improving my development skills.
+
+* 👀 Interested in **Full-Stack Development, Competitive Programming & Machine Learning**
+* 🔭 Currently sharpening my **MERN stack & problem-solving skills**
+* 🌱 Learning **Advanced React, Node.js, System Design & DSA**
+* 💡 I enjoy building products as much as solving problems
+* ☕ Powered by curiosity, coffee, and clean code
+* 🚀 Always building, learning, and experimenting
+* 📫 Open to **internships, full-time opportunities & collaborations**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20There!%20I'm%20Karthik%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+### ⚛️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,vite" />
+</p>
+
+### 🔧 Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### ☁️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Final+Year+B.Tech+Student;Full+Stack+MERN+Developer;7+Months+Internship+Experience;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haranarayanakarthik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haranarayanakarthik&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🧩 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/haranarayanakarthik_kommaraju/?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 QuickChat
+
+**Real-time Chat Application**
+
+`React.js` `Node.js` `Socket.io` `MongoDB` `Tailwind CSS`
+
+A real-time chat application with authentication, responsive UI, and instant messaging using Socket.io.
+
+🔗 **Live:** https://quick-chat-tawny-two.vercel.app/
+
+---
+
+### 🔧 GearUp Garage
+
+**Vehicle Service Booking Platform**
+
+`React.js` `MongoDB` `JavaScript` `HTML/CSS`
+
+A web platform for booking vehicle servicing with authentication, service management, and a mechanic dashboard for monitoring service requests.
+
+🔗 **Live:** https://gearupgarage2.onrender.com/
+
+---
+
+### 📝 Test Platform
+
+**Online Testing Platform**
+
+`React.js` `Material UI` `JavaScript`
+
+An interactive testing platform with authentication, timed tests, and a responsive user interface.
+
+---
+
+## 🧠 Problem Solving
+
+I enjoy solving **DSA and competitive programming problems**, especially topics like:
+
+`Arrays` • `Strings` • `Recursion` • `Dynamic Programming` • `Graphs` • `Trees` • `Greedy`
+
+---
+
+## 📈 Currently
+
+```text
+Full-Stack Development  ███████████████████░  Learning
+Data Structures & Algo   ████████████████░░░░  Practicing
+Machine Learning         ████████████░░░░░░░░  Exploring
+System Design            ████████░░░░░░░░░░░░  Learning
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<h2 align="center">👋 About Me</h2>
-
-I'm **Kommaraju Hara Narayana Karthik**, a final-year B.Tech student and full-stack developer who loves turning ideas into working products. I've completed a **7-month internship** building real-world web applications with the MERN stack, and I'm always exploring new tech to level up.
-
-- 🔭 Currently sharpening my full-stack development skills
-- 🌱 Always learning something new — one commit at a time
-- 💡 I enjoy solving problems as much as building products
-- ☕ Powered by curiosity, coffee, and clean code
-- 📫 Let's connect and build something great together!
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="56" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="56" />
+  <b>✨ Build. Learn. Solve. Repeat. ✨</b>
 </p>
-
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="56" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="56" />
-</p>
-
-<p align="center"><b>Backend</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="56" />
-</p>
-
-<p align="center"><b>Tools</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05632?style=for-the-badge&logo=git&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="56" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="56" />
-</p>
-<h2 align="center">🌐 Social Media</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kommaraju-hara-narayana-karthik-564917258/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haranarayanakarthik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haranarayanakarthik&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haranarayanakarthik&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haranarayanakarthik&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-  📩 Open to internships, collaborations, and interesting projects.<br/>
-  Feel free to reach out — let's build something amazing together!
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kommaraju-hara-narayana-karthik-564917258/">LinkedIn</a> •
-</p>
-
-<p align="center"><i>Thanks for stopping by — see you in the commits! 🚀</i></p>
