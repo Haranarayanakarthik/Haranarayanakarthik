@@ -37,7 +37,7 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
 ### ☁️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,visual studio code" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vs-code" />
 </p>
 
 ---
