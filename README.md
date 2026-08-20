@@ -14,33 +14,29 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
 
 ---
 
-## 🛠️ Tech Stack
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Tech Stack
 
-### 💻 Languages
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="50" /></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" height="50" /></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" height="50" /></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="50" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="50" /></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="50" /></td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
-</p>
-
-### ⚛️ Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,materialui,vite" />
-</p>
-
-### 🔧 Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-
-### ☁️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" />
-</p>
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -56,7 +52,7 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
 ---
 
 ## 🧩 LeetCode
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> LeetCode Stats
 <p align="center">
    <a href="https://leetcode.com/u/haranarayanakarthik_kommaraju//">
      <img src="https://leetcard.jacoblin.cool/haranarayanakarthik_kommaraju?theme=dark&font=Karma&ext=heatmap" />
