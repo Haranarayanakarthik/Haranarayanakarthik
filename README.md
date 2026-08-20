@@ -48,7 +48,6 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haranarayanakarthik&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
----
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> LeetCode Stats
 <p align="center">
