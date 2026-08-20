@@ -29,7 +29,6 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
     <td align="center"><img src="https://skillicons.dev/icons?i=c" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="50" /></td>
     <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="50" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" height="50" /></td>
@@ -51,7 +50,6 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
 </p>
 ---
 
-## 🧩 LeetCode
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> LeetCode Stats
 <p align="center">
    <a href="https://leetcode.com/u/haranarayanakarthik_kommaraju//">
