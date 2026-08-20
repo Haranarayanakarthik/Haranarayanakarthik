@@ -14,7 +14,7 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
 
 ---
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Tech Stack
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Tech Stack
 
 <table align="center">
   <tr>
@@ -27,13 +27,14 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" height="50" /></td>
     <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="50" /></td>
   </tr>
+
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="50" /></td>
     <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=materialui" height="50" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=canva" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" height="50" /></td>
   </tr>
