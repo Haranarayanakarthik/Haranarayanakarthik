@@ -48,7 +48,7 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Haranarayanakarthik&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-## 🔥 GitHub Contributions
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haranarayanakarthik&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
