@@ -39,7 +39,6 @@ I’m a passionate **full-stack developer** who enjoys turning ideas into real-w
     <td align="center"><img src="https://skillicons.dev/icons?i=css" height="50" /></td>
   </tr>
 </table>
----
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Stats
 
 <p align="center">
